@@ -1,7 +1,8 @@
 # 알고리즘 문제 풀이
 
-백준 알고리즘 문제 풀이 
+백준 알고리즘 문제 풀이
 
+백준 사이트에서 코드 실행 시, 클래스 이름에서 문제 번호를 제거 후(__Main_XXXX__ 에서 "___XXXX__") 실행 시켜야 한다.
 
 # 풀이 목록
 
@@ -12,3 +13,4 @@
 ### 그래프
 - DFS와 BFS([1260](https://github.com/jaeryol/algorithm/blob/master/src/boj/graph/Main_1260.java))
 - 단지번호 붙이기([2667](https://github.com/jaeryol/algorithm/blob/master/src/boj/graph/Main_2667.java))
+- 유기농 배추([1012](https://github.com/jaeryol/algorithm/blob/master/src/boj/graph/Main_1012.java))
