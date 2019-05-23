@@ -14,3 +14,4 @@
 - DFS와 BFS([1260](https://github.com/jaeryol/algorithm/blob/master/src/boj/graph/Main_1260.java))
 - 단지번호 붙이기([2667](https://github.com/jaeryol/algorithm/blob/master/src/boj/graph/Main_2667.java))
 - 유기농 배추([1012](https://github.com/jaeryol/algorithm/blob/master/src/boj/graph/Main_1012.java))
+- 미로 탐색([2178](https://github.com/jaeryol/algorithm/blob/master/src/boj/graph/Main_2178.java))
