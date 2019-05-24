@@ -18,6 +18,10 @@
 - 유기농 배추([1012](https://github.com/jaeryol/algorithm/blob/master/src/boj/graph/Main_1012.java))
 - 미로 탐색([2178](https://github.com/jaeryol/algorithm/blob/master/src/boj/graph/Main_2178.java))
 
+### 스택
+
+- 쇠막대기([10799](https://github.com/jaeryol/algorithm/blob/master/src/boj/stack/Main_10799.java)) 
+
 
 # 프로그래머스 문제 풀이 목록
 
