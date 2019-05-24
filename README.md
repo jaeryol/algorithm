@@ -12,6 +12,7 @@
 - 1,2,3 더하기([9095](https://github.com/jaeryol/algorithm/blob/master/src/boj/dp/Main_9095.java))
 - 피보나치 함수([1003](https://github.com/jaeryol/algorithm/blob/master/src/boj/dp/Main_1003.java))
 - RGB 거리([1149](https://github.com/jaeryol/algorithm/blob/master/src/boj/dp/Main_1149.java))
+- 정수 삼각형([1932](https://github.com/jaeryol/algorithm/blob/master/src/boj/dp/Main_1932.java))
 
 ### 그래프
 
