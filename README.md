@@ -13,6 +13,7 @@
 - 피보나치 함수([1003](https://github.com/jaeryol/algorithm/blob/master/src/boj/dp/Main_1003.java))
 - RGB 거리([1149](https://github.com/jaeryol/algorithm/blob/master/src/boj/dp/Main_1149.java))
 - 정수 삼각형([1932](https://github.com/jaeryol/algorithm/blob/master/src/boj/dp/Main_1932.java))
+- 계단 오르기([2579](https://github.com/jaeryol/algorithm/blob/master/src/boj/dp/Main_2579.java))
 
 ### 그래프
 
