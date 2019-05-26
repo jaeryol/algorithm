@@ -35,6 +35,9 @@
 - 숫자의 개수([2577](https://github.com/jaeryol/algorithm/blob/master/src/boj/implementation/Main_2577.java))
 - OX 퀴즈([8958](https://github.com/jaeryol/algorithm/blob/master/src/boj/implementation/Main_8958.java)) 
 
+### 배열
+
+- 음계([2920](https://github.com/jaeryol/algorithm/blob/master/src/boj/array/Main_2920.java)) 
 
 # 프로그래머스 문제 풀이 목록
 
