@@ -26,6 +26,9 @@
 
 - 쇠막대기([10799](https://github.com/jaeryol/algorithm/blob/master/src/boj/stack/Main_10799.java)) 
 
+### 문자열 처리
+
+- 단어의 개수([1152](https://github.com/jaeryol/algorithm/blob/master/src/boj/string/Main_1152.java)) 
 
 # 프로그래머스 문제 풀이 목록
 
