@@ -35,6 +35,7 @@
 - 그룹 단어 체커([1316](https://github.com/jaeryol/algorithm/blob/master/src/boj/string/Main_1316.java))
 - 상수([2908](https://github.com/jaeryol/algorithm/blob/master/src/boj/string/Main_2908.java))
 - 다이얼([5622](https://github.com/jaeryol/algorithm/blob/master/src/boj/string/Main_5622.java))
+- 크로아티아 알파벳([2941](https://github.com/jaeryol/algorithm/blob/master/src/boj/string/Main_2941.java))
 
 ### 구현
 
