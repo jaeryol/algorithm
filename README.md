@@ -42,6 +42,7 @@
 - 숫자의 개수([2577](https://github.com/jaeryol/algorithm/blob/master/src/boj/implementation/Main_2577.java))
 - OX 퀴즈([8958](https://github.com/jaeryol/algorithm/blob/master/src/boj/implementation/Main_8958.java))
 - 평균 점수([10039](https://github.com/jaeryol/algorithm/blob/master/src/boj/implementation/Main_10039.java))
+- 벌집([2292](https://github.com/jaeryol/algorithm/blob/master/src/boj/implementation/Main_2292.java))
 
 ### 배열
 
