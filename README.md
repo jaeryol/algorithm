@@ -44,6 +44,7 @@
 - 평균 점수([10039](https://github.com/jaeryol/algorithm/blob/master/src/boj/implementation/Main_10039.java))
 - 벌집([2292](https://github.com/jaeryol/algorithm/blob/master/src/boj/implementation/Main_2292.java))
 - 분수 찾기([1193](https://github.com/jaeryol/algorithm/blob/master/src/boj/implementation/Main_1193.java))
+- Fly me to the Alpha Centauri([1011](https://github.com/jaeryol/algorithm/blob/master/src/boj/implementation/Main_1011.java))
 
 ### 배열
 
