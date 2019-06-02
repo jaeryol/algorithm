@@ -53,6 +53,10 @@
 
 - 음계([2920](https://github.com/jaeryol/algorithm/blob/master/src/boj/array/Main_2920.java)) 
 
+### 트리
+
+- 트리 순회([1991](https://github.com/jaeryol/algorithm/blob/master/src/boj/tree/Main_1991.java)) 
+
 # 프로그래머스 문제 풀이 목록
 
 - [2 x n 타일링](https://github.com/jaeryol/algorithm/blob/master/src/programmers/dp/Main_12900.java)
