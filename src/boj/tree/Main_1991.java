@@ -40,6 +40,7 @@ public class Main_1991 {
         PostOrder(a, 0);
         System.out.println();
 
+        scanner.close();
     }
 
     public static void PreOrder(
