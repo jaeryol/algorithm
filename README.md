@@ -57,6 +57,7 @@
 
 - 트리 순회([1991](https://github.com/jaeryol/algorithm/blob/master/src/boj/tree/Main_1991.java)) 
 - 트리의 부모 찾기([11725](https://github.com/jaeryol/algorithm/blob/master/src/boj/tree/Main_11725.java)) 
+- 트리의 지름([1167](https://github.com/jaeryol/algorithm/blob/master/src/boj/tree/Main_1167.java)) 
 
 # 프로그래머스 문제 풀이 목록
 
