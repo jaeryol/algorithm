@@ -59,6 +59,10 @@
 - 트리의 부모 찾기([11725](https://github.com/jaeryol/algorithm/blob/master/src/boj/tree/Main_11725.java)) 
 - 트리의 지름([1167](https://github.com/jaeryol/algorithm/blob/master/src/boj/tree/Main_1167.java)) 
 
+### 큐
+
+- 큐([10845](https://github.com/jaeryol/algorithm/blob/master/src/boj/queue/Main_10845.java)) 
+
 # Codility 문제 풀이 목록
 
 - [Lesson1 - BinaryGap](https://github.com/jaeryol/algorithm/blob/master/src/codility/lesson1/BinaryGap.java)
