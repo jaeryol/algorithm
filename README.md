@@ -63,6 +63,7 @@
 
 - [Lesson1 - BinaryGap](https://github.com/jaeryol/algorithm/blob/master/src/codility/lesson1/BinaryGap.java)
 - [Lesson2 - OddOccurrencesInArray](https://github.com/jaeryol/algorithm/blob/master/src/codility/lesson2/OddOccurrencesInArray.java)
+- [Lesson2 - CyclicRotation](https://github.com/jaeryol/algorithm/blob/master/src/codility/lesson2/CyclicRotation.java)
 
 # 프로그래머스 문제 풀이 목록
 
