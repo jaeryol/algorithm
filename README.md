@@ -1,6 +1,6 @@
 # 알고리즘 문제 풀이
 
-백준 알고리즘 & 프로그래머스 문제 풀이
+백준 알고리즘 & Codility & 프로그래머스 문제 풀이
 
 백준 사이트에서 코드 실행 시, 클래스 이름에서 문제 번호를 제거 후(__Main_XXXX__ 에서 "___XXXX__") 실행 시켜야 한다.
 
@@ -58,6 +58,10 @@
 - 트리 순회([1991](https://github.com/jaeryol/algorithm/blob/master/src/boj/tree/Main_1991.java)) 
 - 트리의 부모 찾기([11725](https://github.com/jaeryol/algorithm/blob/master/src/boj/tree/Main_11725.java)) 
 - 트리의 지름([1167](https://github.com/jaeryol/algorithm/blob/master/src/boj/tree/Main_1167.java)) 
+
+# Codility 문제 풀이 목록
+
+- [Lesson1 - BinaryGap](https://github.com/jaeryol/algorithm/blob/master/src/codility/lesson1/binaryGap/Main.java)
 
 # 프로그래머스 문제 풀이 목록
 
