@@ -1,14 +1,13 @@
-package codility.lesson1.binaryGap;
+package codility.lesson1;
 
 /*
     문제 이름 : BinaryGap
-
     문제 링크 : https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
-    채점 링크 : https://app.codility.com/demo/results/trainingN735VK-PP4/
+    채점 결과 링크 : https://app.codility.com/demo/results/trainingN735VK-PP4/
  */
 
 
-public class Main {
+public class BinaryGap {
     public static void main(String[] args) {
         int N = 6;
         boolean flag = false;
