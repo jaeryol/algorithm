@@ -61,7 +61,8 @@
 
 ### 큐
 
-- 큐([10845](https://github.com/jaeryol/algorithm/blob/master/src/boj/queue/Main_10845.java)) 
+- 큐([10845](https://github.com/jaeryol/algorithm/blob/master/src/boj/queue/Main_10845.java))
+- 프린터 큐([1966](https://github.com/jaeryol/algorithm/blob/master/src/boj/queue/Main_1966.java))
 
 # Codility 문제 풀이 목록
 
