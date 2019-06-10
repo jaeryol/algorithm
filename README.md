@@ -63,6 +63,7 @@
 
 - 큐([10845](https://github.com/jaeryol/algorithm/blob/master/src/boj/queue/Main_10845.java))
 - 프린터 큐([1966](https://github.com/jaeryol/algorithm/blob/master/src/boj/queue/Main_1966.java))
+- 조세퍼스 문제 0([11866](https://github.com/jaeryol/algorithm/blob/master/src/boj/queue/Main_11866.java))
 
 # Codility 문제 풀이 목록
 
