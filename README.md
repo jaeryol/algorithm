@@ -54,6 +54,7 @@
 ### 배열
 
 - 음계([2920](https://github.com/jaeryol/algorithm/blob/master/src/boj/array/Main_2920.java)) 
+- 최댓값([2562](https://github.com/jaeryol/algorithm/blob/master/src/boj/array/Main_2562.java))
 
 ### 트리
 
