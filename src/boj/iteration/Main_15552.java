@@ -1,5 +1,11 @@
 package boj.iteration;
 
+/*
+    링크 : https://www.acmicpc.net/problem/15552
+    유형 : 반복문
+    문제 이름 : 빠른 A+B
+ */
+
 import java.io.*;
 
 public class Main_15552 {
