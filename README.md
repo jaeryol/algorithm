@@ -56,6 +56,9 @@
 - 고양이([10171](https://github.com/jaeryol/algorithm/blob/master/src/boj/output/Main_10171.java))
 - 곱셈([2588](https://github.com/jaeryol/algorithm/blob/master/src/boj/output/Main_2588.java))
 
+### if 문
+- 윤년([2573](https://github.com/jaeryol/algorithm/blob/master/src/boj/if_statement/Main_2573.java))
+
 ### 반복문
 
 - 빠른 A+B([15552](https://github.com/jaeryol/algorithm/blob/master/src/boj/iteration/Main_15552.java))
