@@ -58,6 +58,7 @@
 
 ### if 문
 - 윤년([2573](https://github.com/jaeryol/algorithm/blob/master/src/boj/if_statement/Main_2573.java))
+- 알람 시계([2884](https://github.com/jaeryol/algorithm/blob/master/src/boj/if_statement/Main_2884.java))
 
 ### 반복문
 

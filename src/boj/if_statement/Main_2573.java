@@ -15,7 +15,7 @@ public class Main_2573 {
         int year = scanner.nextInt();
         int result = calculateLeapYear(year);
         System.out.println(result);
-        
+
         scanner.close();
     }
 
@@ -24,7 +24,6 @@ public class Main_2573 {
                 year % 400 == 0) {
             return 1;
         }
-
         return 0;
     }
 }
